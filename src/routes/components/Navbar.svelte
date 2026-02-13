@@ -45,7 +45,7 @@
 			<div
 				class="hidden h-full w-auto items-center justify-between gap-10 font-extralight text-white lg:flex"
 			>
-				<a class="transition-opacity hover:opacity-80" href="/">Home</a>
+				<a class="transition-opacity hover:opacity-80" href="https://equatys.com">Home</a>
 				<a class="transition-opacity hover:opacity-80" href="#contact">Contact Us</a>
 			</div>
 		</nav>

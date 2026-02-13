@@ -5,7 +5,9 @@
 
 <Section bgImage="BG.jpg" class="bg-center">
 	<Container class="flex flex-col items-center ">
-		<h2 class=" mt-20 text-center text-[1.4rem] font-bold text-[#00ae84] sm:text-[1.7rem] lg:text-[2.1rem]">
+		<h2
+			class=" mt-20 text-center text-[1.4rem] font-bold text-[#00ae84] sm:text-[1.7rem] lg:text-[2.1rem]"
+		>
 			Join us at MWC for bold ideas, smart panels
 			<br /><span>and inspired moments</span>
 		</h2>
@@ -32,8 +34,7 @@
 			<div class="grid w-full grid-cols-1 gap-6 md:grid-cols-2 md:gap-10">
 				<div class="order-2 flex flex-col md:order-1">
 					<p class="mb-8 text-[1.2rem] font-bold">
-						New Frontiers Stage Presentation NTN at a Crossroads: Open Interoperability or walled
-						Gardens in Space
+						NTN at a Crossroads: Open Interoperability or walled Gardens in Space
 					</p>
 					<p class="text-[1rem] font-light">Date and time: 2 March, 10:30 CET</p>
 					<p class="text-[1rem] font-light">Location: Hall 6</p>
